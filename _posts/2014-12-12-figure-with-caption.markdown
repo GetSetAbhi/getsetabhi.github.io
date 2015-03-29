@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Figure With A Caption"
+date:   2014-12-12
+---
+
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation `Jekyll`ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in `Jekyll` voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+And if you are already excited about what i'm going to write next, then you can follow me on [Facebook][fb], [Twitter][tweet] and to check my code works you can also check out my profile on [Github][gh].
+ENJOY :D.
+
+
+[fb]:      http://fb.com/abhiraina07
+[gh]:   https://github.com/GetSetAbhi
+[tweet]: https://twitter.com/jekyll/GetSetAbhi

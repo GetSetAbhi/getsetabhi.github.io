@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="container">
+    <header class="page-header">
+        <h1>Abhishek Raina</h1>
+        <h4>Cricket, Tech and everything me</h4>
+    </header>
+</div>
+{% if page.image %}
+<div id="post-image" class="container">
+	<img src="/img/me.jpg" class="img-responsive img-rounded">
+</div>
+{% endif %}
+<div class="container">
+  	<article>
+  		<div class="row">
+  			<div id="blog-contents">
+  				<div class="col-xs-12 col-sm-12 col-md-12 blog-main">
+  					<div class="blog-post">
+  						<div id="page-title">
+   			 				<h1 class="blog-post-title">{{ page.title }}</h1>
+    	       			</div>
+
+  						<div class="description">
+  							<p>{{content}}</p>
+  						</div>
+  					</div>
+  				</div>
+  			</div>
+  		</div>
+  	</article>
+</div>
