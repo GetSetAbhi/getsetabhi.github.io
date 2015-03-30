@@ -4,10 +4,10 @@
     <title>Abhishek Raina | Computer Engineering Enthusiast</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Mar 2015 23:11:32 +0530</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2015 23:11:32 +0530</lastBuildDate>
+    <link>http://getsetabhi.github.io/</link>
+    <atom:link href="http://getsetabhi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 Mar 2015 17:51:11 +0530</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2015 17:51:11 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,14 +28,14 @@ ENJOY :D.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 28 Mar 2015 02:33:50 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2015/03/28/The-Beginning.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2015/03/28/The-Beginning.html</guid>
+        <link>http://getsetabhi.github.io/2015/03/28/The-Beginning.html</link>
+        <guid isPermaLink="true">http://getsetabhi.github.io/2015/03/28/The-Beginning.html</guid>
         
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Test Post</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -52,129 +52,13 @@ ENJOY :D.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 28 Mar 2015 02:07:50 +0530</pubDate>
-        <link>http://127.0.0.1:4000/jekyll/update/2015/03/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/jekyll/update/2015/03/28/welcome-to-jekyll.html</guid>
+        <link>http://getsetabhi.github.io/jekyll/update/2015/03/28/Test-Post.html</link>
+        <guid isPermaLink="true">http://getsetabhi.github.io/jekyll/update/2015/03/28/Test-Post.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Atttude Adjustment</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
-
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
-
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
-
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/19/attitude-adjustment.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/19/attitude-adjustment.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Piledriver</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
-
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
-
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
-
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/18/piledriver.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/18/piledriver.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Lost In Paradise</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
-
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
-
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
-
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 17 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/17/lost-in-paradise.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/17/lost-in-paradise.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Trouble in Paradise</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-
-&lt;p&gt;Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/assets/img/touring.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.&lt;/p&gt;
-
-&lt;p&gt;Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.&lt;/p&gt;
-
-&lt;p&gt;Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.&lt;/p&gt;
-
-&lt;p&gt;Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/16/trouble-in-paradise.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/16/trouble-in-paradise.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Example Post Formatting</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation &lt;code&gt;Jekyll&lt;/code&gt;ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in &lt;code&gt;Jekyll&lt;/code&gt; voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-And if you are already excited about what i’m going to write next, then you can follow me on &lt;a href=&quot;http://fb.com/abhiraina07&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jekyll/GetSetAbhi&quot;&gt;Twitter&lt;/a&gt; and to check my code works you can also check out my profile on &lt;a href=&quot;https://github.com/GetSetAbhi&quot;&gt;Github&lt;/a&gt;.
-ENJOY :D.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 15 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/15/example-post-formatting.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/15/example-post-formatting.html</guid>
-        
         
       </item>
     
@@ -196,56 +80,8 @@ ENJOY :D.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 14 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/14/featured-image.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/14/featured-image.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Post With A Code Snippet</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation &lt;code&gt;Jekyll&lt;/code&gt;ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in &lt;code&gt;Jekyll&lt;/code&gt; voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-And if you are already excited about what i’m going to write next, then you can follow me on &lt;a href=&quot;http://fb.com/abhiraina07&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jekyll/GetSetAbhi&quot;&gt;Twitter&lt;/a&gt; and to check my code works you can also check out my profile on &lt;a href=&quot;https://github.com/GetSetAbhi&quot;&gt;Github&lt;/a&gt;.
-ENJOY :D.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 13 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/13/code-snippet.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/13/code-snippet.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Figure With A Caption</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation &lt;code&gt;Jekyll&lt;/code&gt;ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in &lt;code&gt;Jekyll&lt;/code&gt; voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-And if you are already excited about what i’m going to write next, then you can follow me on &lt;a href=&quot;http://fb.com/abhiraina07&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jekyll/GetSetAbhi&quot;&gt;Twitter&lt;/a&gt; and to check my code works you can also check out my profile on &lt;a href=&quot;https://github.com/GetSetAbhi&quot;&gt;Github&lt;/a&gt;.
-ENJOY :D.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://127.0.0.1:4000/2014/12/12/figure-with-caption.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2014/12/12/figure-with-caption.html</guid>
+        <link>http://getsetabhi.github.io/2014/12/14/featured-image.html</link>
+        <guid isPermaLink="true">http://getsetabhi.github.io/2014/12/14/featured-image.html</guid>
         
         
       </item>
