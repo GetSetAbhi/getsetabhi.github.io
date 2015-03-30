@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
+title:  "The Beginning"
+date:   2015-03-27 21:03:50
 image: banner.jpg
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation `Jekyll`ullamco laboris nisi ut aliquip ex ea commodo
