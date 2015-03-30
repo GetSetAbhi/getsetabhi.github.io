@@ -1,4 +1,4 @@
-# getsetabhi.github.io
+Personal Website
 ======================
 
 Personal blogging space of mine in this Wide World of Web powered by [Jekyll][jk] and hosted on [Github][gh].
