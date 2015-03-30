@@ -4,6 +4,7 @@
 Personal blogging space of mine in this Wide World of Web powered by [Jekyll][jk] and hosted on [Github][gh].
 
 ## Why `Jekyll` ?
+I chose jekyll because: 
 
 - I don't have to worry about FTP or SMTP.
 - No database to Create, Update or Delete.
