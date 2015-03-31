@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: Contact
+title: "Contact"
 ---
 <div id="contact-space">
     <ul>
