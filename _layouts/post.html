@@ -33,14 +33,14 @@ layout: default
   					</div>
   					<div class="row">
   						<div class="blog-pagination-nav col-xs-12 col-sm-12 col-md-12">
-                					<p>Recent Posts</p> 
+                            <p>Recent Posts</p> 
   							{% if page.previous.url %}
-	    						<p class="col-xs-6 col-sm-6 col-md-6">
+                            <p class="col-xs-6 col-sm-6 col-md-6">
 								<a href="{{page.previous.url}}" class="previousbutton__outline">&laquo; {{page.previous.title}}</a>
 							</p>
 	  						{% endif %}  
 	  						{% if page.next.url %}  
-	    						<p class="col-xs-6 col-sm-6 col-md-6">
+	    					<p class="col-xs-6 col-sm-6 col-md-6">
 								<a href="{{page.next.url}}" class="nextbutton__outline">{{page.next.title}} &raquo;</a>
 							</p>
 	  						{% endif %} 
