@@ -78,6 +78,13 @@ li, a, p {
         }
     }
 
+    nav #site_menu li a:active, nav #site_menu li a:hover {
+        border-bottom: 5px solid #fff;
+        color: #fff;
+        padding-bottom: 10px;
+        background-color: #080808;
+    }
+
 /* ***************** Main Content Styling *****************  */
 
     body #site_content {
