@@ -9,3 +9,4 @@ function newTabLinks() {
 window.onload = function() {
 	newTabLinks();
 }
+// ul(#social_links & #site_menu) li a 
