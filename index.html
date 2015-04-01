@@ -20,11 +20,7 @@ title: Abhishek Raina | Computer Engineering Enthusiast
     	       				<p class="blog-post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
     	       		    </div>
     	       			<p class="description">
-    	          			{% if post.description %}
-    	          		  	    {{ post.description  | strip_html | strip_newlines | truncate: 250 }}
-    	          			{% else %}
-    	          		  	    {{ post.content | strip_html | strip_newlines | truncate: 250 }}
-    	          			{% endif %}
+                            {{ post.excerpt | strip_html | strip_newlines | truncate: 250 }}
     	          		</p>
     	          		<p class="proceed-to-content"><a href="{{ post.url | prepend: site.baseurl }}">Continue Reading&raquo;</a></p>
    			 		</div>
