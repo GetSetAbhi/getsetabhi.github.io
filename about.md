@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /about/
-title: "About Me"
+title: "About"
 image: me.jpg
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a Computer Engineering Sophomore from the North of India, Jammu and Kashmir. I'm deeply interested in computer engineering and here I write about some tech stuff, some programming stuff and some experimental stuff I do with my laptop.
+
+Most of my time is spend on Facebook's Engineering blog where I read about their engineering ethics, how they go about solving issues in their products and also the new tools/APIs they develop for the world to use. 
+
+
+
