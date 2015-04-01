@@ -173,6 +173,17 @@ li, a, p {
     #page-title {
         text-align: center;
     }
+
+    #error-message {
+        text-align: center;
+        color: white;
+    }
+
+    #error {
+        background-color: black;
+        display: block;
+        margin: auto;
+    }
 /* ***************** Custom Footer Styling *****************  */
     
     footer .container {
