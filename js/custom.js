@@ -7,6 +7,6 @@ function newTabLinks() {
 }
 
 window.onload = function() {
-	newTabLinks();
+	//newTabLinks();
 }
 // ul(#social_links & #site_menu) li a 
