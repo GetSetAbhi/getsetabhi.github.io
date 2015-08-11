@@ -1,5 +1,5 @@
 function newTabLinks() {
-	var links = document.getElementsByTagName('a');
+	var links = document.getElementById('new_tab')
 	
 	for (var i = 0; i < links.length; i++) {
 		links[i].setAttribute("target", "_blank");
@@ -7,6 +7,6 @@ function newTabLinks() {
 }
 
 window.onload = function() {
-	//newTabLinks();
+	newTabLinks();
 }
 // ul(#social_links & #site_menu) li a 
