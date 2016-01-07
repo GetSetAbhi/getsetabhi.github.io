@@ -1,0 +1,193 @@
+/* ALTER NO CODE HERE*/
+/* Footer Style */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+@media (max-width: 300px){
+    body {
+        min-width: 294px;
+    }
+
+    html {
+        min-width: 294px; 
+    }
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #000000;
+}
+
+#footer-content {
+    text-align: center;
+}
+
+/* ------------ALTER NO CODE HERE -------------- */
+/*Font Size Styling for consistent size throught*/
+
+h1 {
+    font-size: 1.6em;
+    font-family: 'PT Sans', sans-serif;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+p {
+    font-size: 1em;
+}
+
+li, a, p {
+    font-family: 'Lato', sans-serif;
+}
+
+/* ------------- Custom Styles ------------------ */
+/* ------------- Customize Style Here ------------*/
+
+/* ***************** Navigation Styling *****************  */
+
+    nav .navbar-header .navbar-brand {
+        color: white;
+    }
+    
+    nav #social_links a, #social_links img {
+        height: 20px;
+    }
+    
+    /* Hides Social links when device width is less than */
+    @media (max-width: 992px) {
+        #social_links {
+            display: none;
+        }
+    }
+
+    nav #site_menu li a:active, nav #site_menu li a:hover {
+        border-bottom: 5px solid #fff;
+        color: #fff;
+        padding-bottom: 10px;
+        background-color: #080808;
+    }
+
+/* ***************** Main Content Styling *****************  */
+
+    body #site_content {
+        margin-top: 51px;
+        background-color: white;
+    }
+    #post-image img {
+        display: block;
+        margin: auto;
+        max-height: 300px; 
+    }
+    #site_content h4 {
+        color: #646363;
+        margin-top: 10px;
+    }
+
+    /* Blog Styles */
+    .blog-main {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    @media (min-width: 768px) {
+        #blog-contents {
+            max-width: 800px;
+            margin: auto;
+        }
+    }
+
+
+    .blog-post {
+        margin-top: 10px;
+        margin-bottom: 20px;
+        border-bottom: 1px solid black;
+    }
+
+    .blog-post-title{
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+
+    @media (min-width: 303px) {
+        #blog-title {
+            text-align: center;
+        }
+    }
+
+    .blog-post-meta {
+        font-size: 15px;
+        color: #646363;
+        margin-bottom: 5px;
+    }
+
+    .blog-post .description {
+        margin-bottom: 0px;
+    }
+
+    .blog-post .proceed-to-content {
+        font-size: 18px;
+    }
+
+    .blog-post-title a {
+        color: black;
+    }
+
+    .blog-pagination-nav {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .blog-pagination-nav p a {
+        font-weight: bold;
+    }
+    
+    #mail-link {
+        font-weight: bold;
+        font-family: 'PT Sans', sans-serif;
+    }
+
+    #contact-space {
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
+
+    #page-title {
+        text-align: center;
+    }
+
+    #error-message {
+        text-align: center;
+        color: white;
+    }
+
+    #error {
+        background-color: black;
+        display: block;
+        margin: auto;
+    }
+/* ***************** Custom Footer Styling *****************  */
+    
+    footer .container {
+        margin-top: 12px;
+    }
+
+    
