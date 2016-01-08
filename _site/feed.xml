@@ -6,58 +6,26 @@
 </description>
     <link>http://getsetabhi.github.io/</link>
     <atom:link href="http://getsetabhi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Dec 2015 20:30:09 +0530</pubDate>
-    <lastBuildDate>Wed, 30 Dec 2015 20:30:09 +0530</lastBuildDate>
+    <pubDate>Fri, 08 Jan 2016 20:03:38 +0530</pubDate>
+    <lastBuildDate>Fri, 08 Jan 2016 20:03:38 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>The Motivation</title>
-        <description>&lt;p&gt;Programming is an art and a programmer is an artist. An artist needs some motivation to bring his art to life and same is the case with a programmer. Motivation is really essential for a programmer or else programming just becomes a dull, boring and a mundane task.
-As a programmer myself I face that quite a lot and once I lose my motivation then it becomes very hard to spend even a couple of minutes in front of the laptop. Since programmers don’t give up, I decided to get rid of this problem because once i’m demotivated I spend a lot of time doing unessential stuff. So in a state of demotivation instead of browsing through facebook profiles I started to spend my time reading engineering blogs of &lt;a href=&quot;https://code.facebook.com/&quot;&gt;Facebook&lt;/a&gt; as well as &lt;a href=&quot;https://engineering.twitter.com/&quot;&gt;Twitter&lt;/a&gt;. That worked really well for me to get motivated once again.&lt;/p&gt;
+        <title>Codename: Project Flash</title>
+        <description>&lt;p&gt;Project Flash has officially begun. As Mark Zuckerberg declared this year as the year of invention, I decided to build something on my own.
+It’s about creating a news application that basically fetches news headlines from trusted news sources and serves them to the user and user doesn’t have to go out browsing for them.&lt;/p&gt;
 
-&lt;p&gt;These blogs are really really good for a programmer to get an insight of the stuff which happens at &lt;a href=&quot;https://code.facebook.com/&quot;&gt;Facebook&lt;/a&gt; and &lt;a href=&quot;https://engineering.twitter.com/&quot;&gt;Twitter&lt;/a&gt;. Every programmer I think should check out these blogs once in a while if in a state of demotivation. Facebook also has a separate engineering blog where it writes about all of its engineering stuff, the technologies its using as well as creating for the world to use.
-Between the two social networking giants Facebook is my personal favourite. I’m a regular follower of their work and it helps me stay motivated so that I can be as good as the people writing that blog.&lt;/p&gt;
+&lt;p&gt;First challenge is the layout. Over the past few days I have experimented with a lot of UI designs but I am not able to stick to a single one.&lt;/p&gt;
 
-&lt;p&gt;I have been in a state of demotivation for a long time now but this time its not the social networking blog which helped me get out of it, this time my very own blog did the trick for me.
-Creating this website and making it look the way I wanted it to was like an achievement for me and that motivated me to continue coding again.&lt;/p&gt;
+&lt;p&gt;Secondly I am trying to find out the right technologies/libraries that will power the whole app. My search for appropriate technologies/libraries took me to Facebook’s Engineering &lt;a href=&quot;https://code.facebook.com/&quot;&gt;blog&lt;/a&gt;, Square’s Open Source &lt;a href=&quot;https://square.github.io/&quot;&gt;website&lt;/a&gt;. Today’s day was spent by experimenting with a lot of stuff and I think the experiments will go on for a while until I develop them such that they can be used for implementation in “Project Flash”.&lt;/p&gt;
 
-&lt;p&gt;Another thing which I have observed with many progrmammers is that they just go after the problem they face while coding something and they don’t stop until they achive the functionality they want. This acts as a kind of motivation for them.&lt;/p&gt;
-
-&lt;p&gt;So all in all if you want to succeed as a programmer, you gotta stay motivated !!&lt;/p&gt;
+&lt;p&gt;Lastly, I think this blog will require a lot of makeover.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 31 Mar 2015 00:00:00 +0530</pubDate>
-        <link>http://getsetabhi.github.io/2015/03/31/The-Motivation.html</link>
-        <guid isPermaLink="true">http://getsetabhi.github.io/2015/03/31/The-Motivation.html</guid>
+        <pubDate>Thu, 07 Jan 2016 00:00:00 +0530</pubDate>
+        <link>http://getsetabhi.github.io/2016/01/07/The-Motivation.html</link>
+        <guid isPermaLink="true">http://getsetabhi.github.io/2016/01/07/The-Motivation.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Test Post</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 28 Mar 2015 02:07:50 +0530</pubDate>
-        <link>http://getsetabhi.github.io/jekyll/update/2015/03/28/Test-Post.html</link>
-        <guid isPermaLink="true">http://getsetabhi.github.io/jekyll/update/2015/03/28/Test-Post.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     

@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Test Post"
-date:   2015-03-27 20:37:50
-categories: jekyll update
+title:  "Day 2 of Project Flash"
+date:   2016-01-08 19:44:30
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Today's day was spent by again testing a new layout. Layout is of utmost importance so everyday a new layout is being tested. Since I have little experience in UI/UX so I thought it'll be a good idea to try and implement a UI/UX design which is already being used by all of people worldwide. Layout is still subject to change as long as satisfaction is not there.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Secondly, some image libraries were tried. So now decision has to be taken between [Fresco][fresco] by Facebook and [Picasso][picasso] by Square.
+I am yet to learn Image caching and android networking for which again there's confused between [OkHttp][Ok] by Square and [Volley][volley].
 
-Jekyll also offers powerful support for code snippets:
+There's so much to be done and so less time to do it :(
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[picasso]: http://square.github.io/picasso/
+[fresco]: https://frescolib.org
+[Ok]: http://square.github.io/okhttp/
+[volley]: http://developer.android.com/training/volley/index.html
