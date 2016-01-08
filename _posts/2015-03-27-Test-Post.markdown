@@ -12,6 +12,6 @@ I am yet to learn Image caching and android networking for which again there's c
 There's so much to be done and so less time to do it :(
 
 [picasso]: http://square.github.io/picasso/
-[fresco]: https://frescolib.org
+[fresco]: http://frescolib.org
 [Ok]: http://square.github.io/okhttp/
 [volley]: http://developer.android.com/training/volley/index.html
