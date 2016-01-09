@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 2 of Project Flash"
-date:   2016-01-08 19:44:30
+date:   2016-01-08 
 ---
 
 Today's day was spent by again testing a new layout. Layout is of utmost importance so everyday a new layout is being tested. Since I have little experience in UI/UX so I thought it'll be a good idea to try and implement a UI/UX design which is already being used by all of people worldwide. Layout is still subject to change as long as satisfaction is not there.

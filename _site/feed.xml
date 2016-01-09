@@ -6,49 +6,56 @@
 </description>
     <link>http://getsetabhi.github.io/</link>
     <atom:link href="http://getsetabhi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jan 2016 20:14:10 +0530</pubDate>
-    <lastBuildDate>Fri, 08 Jan 2016 20:14:10 +0530</lastBuildDate>
+    <pubDate>Sat, 09 Jan 2016 21:16:11 +0530</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 21:16:11 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Codename: Project Flash</title>
-        <description>&lt;p&gt;Project Flash has officially begun. As Mark Zuckerberg declared this year as the year of invention, I decided to build something on my own.
-It’s about creating a news application that basically fetches news headlines from trusted news sources and serves them to the user and user doesn’t have to go out browsing for them.&lt;/p&gt;
+        <title>Unproductive Day 3</title>
+        <description>&lt;p&gt;Today I was guilty of doing nothing. I did absolutely nothing today. I had a plan to try and learn about &lt;a href=&quot;http://square.github.io/okhttp/&quot;&gt;OkHttp&lt;/a&gt; so that I could use it for the Project but I didn’t.&lt;/p&gt;
 
-&lt;p&gt;First challenge is the layout. Over the past few days I have experimented with a lot of UI designs but I am not able to stick to a single one.&lt;/p&gt;
+&lt;p&gt;However, I came across a &lt;a href=&quot;https://www.redfin.com/devblog/2015/10/using-fresco-to-load-images-efficiently-on-android.html&quot;&gt;blog&lt;/a&gt; by Redfin explaining how they were able to improve the performance and memory usage of displaying images on their android app using 
+&lt;a href=&quot;http://frescolib.org&quot;&gt;Fresco&lt;/a&gt; image libary. Here I just learned how to loading images for views currently on screen while using recyclerview. This was extremely useful as it will help in preserving memory which is of value in coding.&lt;/p&gt;
 
-&lt;p&gt;Secondly I am trying to find out the right technologies/libraries that will power the whole app. My search for appropriate technologies/libraries took me to Facebook’s Engineering &lt;a href=&quot;https://code.facebook.com/&quot;&gt;blog&lt;/a&gt;, Square’s Open Source &lt;a href=&quot;https://square.github.io/&quot;&gt;website&lt;/a&gt;. Today’s day was spent by experimenting with a lot of stuff and I think the experiments will go on for a while until I develop them such that they can be used for implementation in “Project Flash”.&lt;/p&gt;
-
-&lt;p&gt;Lastly, I think this blog will require a lot of makeover.&lt;/p&gt;
+&lt;p&gt;So now I’m going try and make up for the time that I wasted the whole day by learning about Okhttp.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 07 Jan 2016 00:00:00 +0530</pubDate>
-        <link>http://getsetabhi.github.io/2016/01/07/The-Beginning.html</link>
-        <guid isPermaLink="true">http://getsetabhi.github.io/2016/01/07/The-Beginning.html</guid>
+        <pubDate>Sat, 09 Jan 2016 00:00:00 +0530</pubDate>
+        <link>http://getsetabhi.github.io/2016/01/09/featured-image.html</link>
+        <guid isPermaLink="true">http://getsetabhi.github.io/2016/01/09/featured-image.html</guid>
         
         
       </item>
     
       <item>
-        <title>Featured Image</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation &lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt;ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in &lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-And if you are already excited about what i’m going to write next, then you can follow me on &lt;a href=&quot;http://fb.com/abhiraina07&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jekyll/GetSetAbhi&quot;&gt;Twitter&lt;/a&gt; and to check my code works you can also check out my profile on &lt;a href=&quot;https://github.com/GetSetAbhi&quot;&gt;Github&lt;/a&gt;.
-ENJOY :D.&lt;/p&gt;
+        <title>Day 2 of Project Flash</title>
+        <description>&lt;p&gt;Today’s day was spent by again testing a new layout. Layout is of utmost importance so everyday a new layout is being tested. Since I have little experience in UI/UX so I thought it’ll be a good idea to try and implement a UI/UX design which is already being used by all of people worldwide. Layout is still subject to change as long as satisfaction is not there.&lt;/p&gt;
+
+&lt;p&gt;Secondly, some image libraries were tried. So now decision has to be taken between &lt;a href=&quot;http://frescolib.org&quot;&gt;Fresco&lt;/a&gt; by Facebook and &lt;a href=&quot;http://square.github.io/picasso/&quot;&gt;Picasso&lt;/a&gt; by Square.
+I am yet to learn Image caching and android networking for which again there’s confused between &lt;a href=&quot;http://square.github.io/okhttp/&quot;&gt;OkHttp&lt;/a&gt; by Square and &lt;a href=&quot;http://developer.android.com/training/volley/index.html&quot;&gt;Volley&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There’s so much to be done and so less time to do it :(&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 14 Dec 2014 00:00:00 +0530</pubDate>
-        <link>http://getsetabhi.github.io/2014/12/14/featured-image.html</link>
-        <guid isPermaLink="true">http://getsetabhi.github.io/2014/12/14/featured-image.html</guid>
+        <pubDate>Fri, 08 Jan 2016 00:00:00 +0530</pubDate>
+        <link>http://getsetabhi.github.io/2016/01/08/Second-Day.html</link>
+        <guid isPermaLink="true">http://getsetabhi.github.io/2016/01/08/Second-Day.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Codename: Project Flash</title>
+        <description>&lt;p&gt;Project Flash has officially begun. As Mark Zuckerberg declared this year as the year of invention, I decided to build something on my own.
+It’s about creating a news application that basically fetches news headlines from trusted news sources and serves them to the user and user doesn’t have to go out browsing for them.
+First challenge is the layout. Over the past few days I have experimented with a lot of UI designs but I am not able to stick to a single one.
+Secondly I am trying to find out the right technologies/libraries that will power the whole app. My search for appropriate technologies/libraries took me to Facebook’s Engineering &lt;a href=&quot;https://code.facebook.com/&quot;&gt;blog&lt;/a&gt;, Square’s Open Source &lt;a href=&quot;https://square.github.io/&quot;&gt;website&lt;/a&gt;. Today’s day was spent by experimenting with a lot of stuff and I think the experiments will go on for a while until I develop them such that they can be used for implementation in “Project Flash”.
+Lastly, I think this blog will require a lot of makeover.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 07 Jan 2016 00:00:00 +0530</pubDate>
+        <link>http://getsetabhi.github.io/2016/01/07/The-Beginning.html</link>
+        <guid isPermaLink="true">http://getsetabhi.github.io/2016/01/07/The-Beginning.html</guid>
         
         
       </item>
