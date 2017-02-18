@@ -2,7 +2,7 @@
 layout: post
 title:  "Unproductive Day 3"
 date:   2016-01-09
-image: banner.jpg
+image: memecanvas.png
 ---
 
 Today I was guilty of doing nothing. I did absolutely nothing today. I had a plan to try and learn about [OkHttp][ok] so that I could use it for the Project but I didn't.

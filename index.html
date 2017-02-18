@@ -3,44 +3,23 @@ layout: default
 title: Abhishek Raina | Computer Engineering Enthusiast
 ---
 <div class="container">
-	<div class="page-header">
-	    <h1>Abhishek Raina</h1>
-	    <h4>Cricket, Tech and everything me</h4>
-	</div>
+	<div id="post-image" class="container">
+            <img src="/img/memecanvas.png" class="img-responsive img-rounded">
+    </div>
 	<section>
 		<div class="row">
 			<div id="blog-contents">
    				<div class="col-xs-12 col-sm-12 col-md-12 blog-main">
-   			 		{% for post in paginator.posts %}
    			 		<div class="blog-post">
    			 			<div id="blog-title">
    			 				<h1 class="blog-post-title">
-   			 					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+   			 					Privacy policy
    			 				</h1>
-    	       				<p class="blog-post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
     	       		    </div>
     	       			<p class="description">
-                            {{ post.excerpt | strip_html | strip_newlines | truncate: 250 }}
+                            MemeCanvas uses camera only to capture an image and nothing else. Any data from camera is neither collected nor distributed by MemeCanvas app. All the personal data is saved only to user's device with user consent and action
     	          		</p>
-    	          		<p class="proceed-to-content"><a href="{{ post.url | prepend: site.baseurl }}">Continue Reading&raquo;</a></p>
-   			 		</div>
-   			 		{% endfor %}
-	
-   			 		<div class="row">
-    	          		<div class="blog-pagination-nav col-xs-12 col-sm-12 col-md-12">
-							{% if paginator.previous_page %}
-								<p class="col-xs-6 col-sm-6 col-md-6">
-									<a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previousbutton__outline">&laquo; Newer Posts</a>
-								</p>
-							{% endif %}
-							{% if paginator.next_page %}
-								<p class="col-xs-6 col-sm-6 col-md-6">
-									<a href="{{ site.url }}{{ paginator.next_page_path }}" class="nextbutton__outline">Older Posts &raquo;</a>
-								</p>
-							{% endif %}
-							<div class="clearfix"></div>
-						</div>
-    	        	</div>
+    	          	</div>
    				</div>
    			</div>
 		</div>
